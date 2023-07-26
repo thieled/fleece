@@ -6,10 +6,9 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-“fleece” contains helper functions for turing JSON output into tidy
-data.frames. It automatically unnests all columns, deals with entries of
-unequal length, and notices if data is on a single or multiple
-observations.
+“fleece” contains helper functions for turning nested lists from JSON
+data into tidy data.frames. It deals with entries of unequal length and
+automatically unnests all columns.
 
 ## Installation
 
