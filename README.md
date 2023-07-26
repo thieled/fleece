@@ -116,7 +116,8 @@ dplyr::glimpse(df_2)
 
 ## Acknowledgement
 
-Documentation was accelerated by [ChatGPT](https://chat.openai.com/).
+Writing documentation was accelerated by
+[ChatGPT](https://chat.openai.com/).  
 The Adventure-Time like drawing in the logo was created by
-[Dall-E](https://openai.com/dall-e-2). The name is a
-[pun](https://en.wikipedia.org/wiki/Golden_Fleece). :)
+[Dall-E](https://openai.com/dall-e-2).  
+The name is a [pun](https://en.wikipedia.org/wiki/Golden_Fleece).
