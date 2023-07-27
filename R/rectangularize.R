@@ -31,7 +31,7 @@ rectangularize <- function(content){
 
     }else{ # ...or more (=> do.call(rbind, l); multiple rows df)
 
-      con <- rbind(content) |> as.data.frame()
+      con <- rbind(content) |> tibble::as_tibble()
       con <- unnest_recursively(con)
       return(con)
     }
