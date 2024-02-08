@@ -1,6 +1,6 @@
 Package: fleece
 Title: Tidy Up Nested Lists
-Version: 0.0.0.9000
+Version: 0.0.1
 Authors@R: 
     person("Daniel", "Thiele", , "first.last@example.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0003-0324-4943"))
