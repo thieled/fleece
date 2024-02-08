@@ -15,6 +15,7 @@ RoxygenNote: 7.2.1
 Imports: 
     dplyr,
     tibble,
+    tibblify,
     tidyr,
     tidyselect
 Suggests: 
